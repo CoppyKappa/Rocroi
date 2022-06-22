@@ -31,3 +31,6 @@ After all , they lost due to the loss of reinforcements and because spanish cann
 
 They were actually offered an honored surrender . But spanish tercios did reply with "his execellency seems to forget that he is facing an spanish tercio" .
 
+# About setting the mod . 
+
+
