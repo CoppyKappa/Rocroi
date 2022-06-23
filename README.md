@@ -84,10 +84,15 @@ You will get an number of reinforcements every time you complete a wave , im not
 # About credits 
 
 Creator of the mod : Marcoxd#4413 on discord.
+
 Cinematic help : Seabass and Nalgrazzim
+
 Scar help : Seabass , Terror/arteliese , Adne , AGameAnx , NTL , kotri , Woprock
+
 Objectives help : NTL
+
 Win conditions help : Terror/arteliese
+
 Resources capped / other quality stuff for the mod : Woprock
 
 Massive thanks to Aoe4 Modding discord and to anyone who has helped me in the making of this mod . 
